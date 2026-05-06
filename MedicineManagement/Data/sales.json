@@ -1,0 +1,92 @@
+[
+    {
+        "saleId": 1,
+        "medicineId": 1,
+        "medicineName": "Paracetamol 500mg",
+        "quantitySold": 10,
+        "pricePerUnit": 5.50,
+        "totalPrice": 55.00,
+        "saleDate": "2025-04-01T09:15:00"
+    },
+    {
+        "saleId": 2,
+        "medicineId": 3,
+        "medicineName": "Metformin 500mg",
+        "quantitySold": 30,
+        "pricePerUnit": 8.75,
+        "totalPrice": 262.50,
+        "saleDate": "2025-04-03T11:00:00"
+    },
+    {
+        "saleId": 3,
+        "medicineId": 6,
+        "medicineName": "Ibuprofen 400mg",
+        "quantitySold": 5,
+        "pricePerUnit": 6.30,
+        "totalPrice": 31.50,
+        "saleDate": "2025-04-05T14:30:00"
+    },
+    {
+        "saleId": 4,
+        "medicineId": 2,
+        "medicineName": "Amoxicillin 250mg",
+        "quantitySold": 2,
+        "pricePerUnit": 12.99,
+        "totalPrice": 25.98,
+        "saleDate": "2025-04-07T10:00:00"
+    },
+    {
+        "saleId": 5,
+        "medicineId": 5,
+        "medicineName": "Omeprazole 20mg",
+        "quantitySold": 15,
+        "pricePerUnit": 9.00,
+        "totalPrice": 135.00,
+        "saleDate": "2025-04-10T16:45:00"
+    },
+    {
+        "saleId": 6,
+        "medicineId": 8,
+        "medicineName": "Azithromycin 500mg",
+        "quantitySold": 3,
+        "pricePerUnit": 22.50,
+        "totalPrice": 67.50,
+        "saleDate": "2025-04-12T09:30:00"
+    },
+    {
+        "saleId": 7,
+        "medicineId": 10,
+        "medicineName": "Vitamin D3 1000IU",
+        "quantitySold": 20,
+        "pricePerUnit": 7.99,
+        "totalPrice": 159.80,
+        "saleDate": "2025-04-15T13:00:00"
+    },
+    {
+        "saleId": 8,
+        "medicineId": 4,
+        "medicineName": "Cetirizine 10mg",
+        "quantitySold": 4,
+        "pricePerUnit": 4.20,
+        "totalPrice": 16.80,
+        "saleDate": "2025-04-18T11:15:00"
+    },
+    {
+        "saleId": 9,
+        "medicineId": 7,
+        "medicineName": "Atorvastatin 10mg",
+        "quantitySold": 7,
+        "pricePerUnit": 15.80,
+        "totalPrice": 110.60,
+        "saleDate": "2025-04-22T15:00:00"
+    },
+    {
+        "saleId": 10,
+        "medicineId": 9,
+        "medicineName": "Losartan 50mg",
+        "quantitySold": 3,
+        "pricePerUnit": 11.40,
+        "totalPrice": 34.20,
+        "saleDate": "2025-04-28T10:45:00"
+    }
+]

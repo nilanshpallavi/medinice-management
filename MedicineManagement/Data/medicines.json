@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "fullName": "Paracetamol 500mg",
+        "notes": "Common pain reliever and fever reducer. Take with water after food.",
+        "expiryDate": "2025-05-20",
+        "quantity": 120,
+        "price": 5.50,
+        "brand": "GSK"
+    },
+    {
+        "id": 2,
+        "fullName": "Amoxicillin 250mg",
+        "notes": "Antibiotic for bacterial infections. Complete the full course.",
+        "expiryDate": "2026-03-15",
+        "quantity": 8,
+        "price": 12.99,
+        "brand": "Cipla"
+    },
+    {
+        "id": 3,
+        "fullName": "Metformin 500mg",
+        "notes": "Used to treat type 2 diabetes. Take with meals.",
+        "expiryDate": "2026-08-01",
+        "quantity": 200,
+        "price": 8.75,
+        "brand": "Sun Pharma"
+    },
+    {
+        "id": 4,
+        "fullName": "Cetirizine 10mg",
+        "notes": "Antihistamine for allergies and hay fever. May cause drowsiness.",
+        "expiryDate": "2025-06-01",
+        "quantity": 6,
+        "price": 4.20,
+        "brand": "Mankind"
+    },
+    {
+        "id": 5,
+        "fullName": "Omeprazole 20mg",
+        "notes": "Proton pump inhibitor for acid reflux. Take 30 minutes before meals.",
+        "expiryDate": "2026-11-30",
+        "quantity": 85,
+        "price": 9.00,
+        "brand": "AstraZeneca"
+    },
+    {
+        "id": 6,
+        "fullName": "Ibuprofen 400mg",
+        "notes": "Anti-inflammatory and pain reliever. Avoid on empty stomach.",
+        "expiryDate": "2025-05-15",
+        "quantity": 45,
+        "price": 6.30,
+        "brand": "Abbott"
+    },
+    {
+        "id": 7,
+        "fullName": "Atorvastatin 10mg",
+        "notes": "Cholesterol-lowering medication. Take at the same time each day.",
+        "expiryDate": "2027-02-28",
+        "quantity": 3,
+        "price": 15.80,
+        "brand": "Pfizer"
+    },
+    {
+        "id": 8,
+        "fullName": "Azithromycin 500mg",
+        "notes": "Antibiotic for respiratory and skin infections. Take once daily.",
+        "expiryDate": "2026-07-10",
+        "quantity": 60,
+        "price": 22.50,
+        "brand": "Zydus"
+    },
+    {
+        "id": 9,
+        "fullName": "Losartan 50mg",
+        "notes": "Used to treat high blood pressure. Monitor blood pressure regularly.",
+        "expiryDate": "2025-05-25",
+        "quantity": 7,
+        "price": 11.40,
+        "brand": "Merck"
+    },
+    {
+        "id": 10,
+        "fullName": "Vitamin D3 1000IU",
+        "notes": "Dietary supplement for bone health. Take with a fatty meal for best absorption.",
+        "expiryDate": "2027-09-01",
+        "quantity": 150,
+        "price": 7.99,
+        "brand": "HealthVit"
+    }
+]
