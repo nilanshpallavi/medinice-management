@@ -12,3 +12,4 @@ C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\obj\Debug\n
 C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\obj\Debug\net9.0\MedicineManagement.pdb
 C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\obj\Debug\net9.0\MedicineManagement.genruntimeconfig.cache
 C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\obj\Debug\net9.0\ref\MedicineManagement.dll
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\obj\Debug\net9.0\MedicineManagement.sourcelink.json
