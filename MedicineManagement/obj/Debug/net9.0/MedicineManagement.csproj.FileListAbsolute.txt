@@ -1,0 +1,14 @@
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\bin\Debug\net9.0\MedicineManagement.exe
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\bin\Debug\net9.0\MedicineManagement.deps.json
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\bin\Debug\net9.0\MedicineManagement.runtimeconfig.json
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\bin\Debug\net9.0\MedicineManagement.dll
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\bin\Debug\net9.0\MedicineManagement.pdb
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\obj\Debug\net9.0\MedicineManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\obj\Debug\net9.0\MedicineManagement.AssemblyInfoInputs.cache
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\obj\Debug\net9.0\MedicineManagement.AssemblyInfo.cs
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\obj\Debug\net9.0\MedicineManagement.csproj.CoreCompileInputs.cache
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\obj\Debug\net9.0\MedicineManagement.dll
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\obj\Debug\net9.0\refint\MedicineManagement.dll
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\obj\Debug\net9.0\MedicineManagement.pdb
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\obj\Debug\net9.0\MedicineManagement.genruntimeconfig.cache
+C:\Users\CSC\Desktop\Practice\medinice-management\MedicineManagement\obj\Debug\net9.0\ref\MedicineManagement.dll
